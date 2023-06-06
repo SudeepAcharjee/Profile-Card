@@ -153,10 +153,10 @@ body{
   z-index: 4;
 }
 .buttons button:first-child{
-  margin-right: 10px;
+  margin-right: 70px;
 }
 .buttons button:last-child{
-  margin-left: 10px;
+  margin-left: 0px;
 }
 .wrapper .social-share{
   display: flex;
